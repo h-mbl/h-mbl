@@ -11,6 +11,7 @@ Hello! I'm an aspiring computer scientist and UI/UX designer with a love for cod
 ## 🎨 UI/UX Design 
 
 - **Design Tools:** `Figma` `Miro`
+- **Prototyping:** `Interactive prototypes`
 - **User Research**: `Usability testing` `surveys` `user personas`
 
 
