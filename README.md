@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋🏽 About Me
 Hello! I'm an aspiring computer scientist and UI/UX designer with a love for coding, designing, and improving user experiences. 
 - 🌱 Currently learning Generative AI [[...]](https://github.com/microsoft/generative-ai-for-beginners) 
   
@@ -8,7 +8,7 @@ Hello! I'm an aspiring computer scientist and UI/UX designer with a love for cod
 - **Data Science:** `Pandas` `NumPy` `TensorFlow`
 - **Tools:** `Git` `Docker`
 
-## 📦 UI/UX Design 
+## 🎨 UI/UX Design 
 
 - **Design Tools:** `Figma` `Miro`
 - **User Research**: `Usability testing` `surveys` `user personas`
