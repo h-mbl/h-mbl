@@ -9,12 +9,13 @@
 ## 📦 UI/UX Design Toolbox
 
 - **Design Tools:** `Figma` `Miro`
+- **User Research**: Usability testing, surveys, user personas
 
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=8)
 
 ## 🌐 Connect with Me
-[![Dribbble](https://raw.githubusercontent.com/ton-utilisateur/ton-depot/master/images/dribbble.png)](https://dribbble.com/hxlm/shots)
+[![Dribbble](https://github.com/h-mbl/h-mbl/blob/main/dribbble-svgrepo-com.svg)](https://dribbble.com/hxlm/shots)
 
 
