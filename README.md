@@ -18,7 +18,7 @@ Hello! I'm an aspiring computer scientist and UI/UX designer with a love for cod
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=8)
 
 ## 🌐 Connect with Me
-- <img src="https://github.com/h-mbl/h-mbl/blob/main/dribbble-svgrepo-com.svg" alt="Dribble" width="15" height="15"> [`Dribble`](https://dribbble.com/hxlm/shots)
+- <img src="https://github.com/h-mbl/h-mbl/blob/main/dribbble-svgrepo-com.svg" alt="Dribble" width="15" height="15"> [`Dribble`](https://dribbble.com/hxlm)
 
 
 
