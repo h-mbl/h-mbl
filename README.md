@@ -14,6 +14,19 @@ Hello! I'm an aspiring computer scientist and UI/UX designer with a love for cod
 - **Prototyping:** `Interactive prototypes`
 - **User Research**: `Usability testing` `surveys` `user personas`
 
+## projects 
+
+### French Word API
+This Flask API allows users to search for and obtain the definition of a given word. Using a GET request parameter, the API returns the definition and other related information if available.
+
+***Note: The complete API usage guide will be available soon.***
+
+To obtain the definition of the word "example", use the following URL:
+
+#### Code 
+``` https://dictionnaireapi.vercel.app/define?word=your_word ```
+
+- example : https://dictionnaireapi.vercel.app/define?word=matin
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=8)
