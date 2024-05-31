@@ -21,12 +21,11 @@ This Flask API allows users to search for and obtain the definition of a given w
 
 ***Note: The complete API usage guide will be available soon.***
 
-To obtain the definition of the word "example", use the following URL:
+To obtain the definition of the word "matin", use the following URL:  https://dictionnaireapi.vercel.app/define?word=matin
 
 #### Code 
 ``` https://dictionnaireapi.vercel.app/define?word=your_word ```
 
-- example : https://dictionnaireapi.vercel.app/define?word=matin
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=8)
