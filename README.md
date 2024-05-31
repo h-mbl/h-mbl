@@ -14,9 +14,9 @@ Hello! I'm an aspiring computer scientist and UI/UX designer with a love for cod
 - **Prototyping:** `Interactive prototypes`
 - **User Research**: `Usability testing` `surveys` `user personas`
 
-## projects 
+## 🧱Projects 
 
-### 1. French Word API
+### 1. French Word API 📚
 This Flask API allows users to search for and obtain the definition of a given word. Using a GET request parameter, the API returns the definition and other related information if available.
 
 ***Note: The complete API usage guide will be available soon.***
