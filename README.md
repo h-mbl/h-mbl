@@ -1,5 +1,5 @@
 ## 👋🏽 About Me
-Hello! I'm an aspiring computer scientist and UI/UX designer with a love for coding, designing, and improving user experiences. 
+Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my free time. 
 - 🌱 Currently learning Generative AI [[...]](https://github.com/microsoft/generative-ai-for-beginners) 
   
 ## 🛠️ Skills
