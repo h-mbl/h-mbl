@@ -4,7 +4,7 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
   
 ## 🛠️ Skills
 - **Languages:** `Python` `Java` `C++` `C` `JavaScript`
-- **Web Development:** `HTML` `CSS` `Bootsrap` `Jquery`
+- **Web Development:** `HTML` `CSS` `Bootstrap`  `SASS`
 - **Data Science:** `Pandas` `NumPy` `TensorFlow`
 - **Tools:** `Git` `Docker`
 
