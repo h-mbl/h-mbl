@@ -24,7 +24,7 @@ This Flask API allows users to search for and obtain the definition of a given w
 To obtain the definition of the word "matin", use the following URL:  https://dictionnaireapi.vercel.app/flaskApi/define?word=matin 
 
 #### Code 
-``` https://dictionnaireapi.vercel.app/define?word=your_word ```
+``` https://dictionnaireapi.vercel.app/flaskApi/define?word=your_word ```
 
 
 ## 📈 GitHub Stats
