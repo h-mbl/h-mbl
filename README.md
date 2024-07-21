@@ -4,7 +4,8 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
   
 ## 🛠️ Skills
 - **Languages:** `Python` `Java` `C++` `C` `JavaScript`
-- **Web Development:** `HTML` `CSS` `Bootstrap`  `SASS`
+- **Web Development:** `HTML` `CSS` `Bootstrap`  `SASS` `AJAX` `React` `NodeJS` `Rest API`
+- **Framework:** `Flask`
 - **Data Science:** `Pandas` `NumPy` `TensorFlow`
 - **Tools:** `Git` `Docker`
 
@@ -28,7 +29,7 @@ To obtain the definition of the word "matin", use the following URL:  https://di
 
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=9)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-mbl&" alt="githubstat" /></p>
 
