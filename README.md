@@ -37,19 +37,6 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
 `Usability testing` `Surveys` `User personas`
 
 
-## 🧱Projects 
-
-### 1. French Word API 📚
-This Flask API allows users to search for and obtain the definition of a given word. Using a GET request parameter, the API returns the definition and other related information if available.
-
-***Note: The complete API usage guide will be available soon.***
-
-To obtain the definition of the word "matin", use the following URL:  https://dictionnaireapi.vercel.app/flaskApi/define?word=matin 
-
-#### Code 
-``` https://dictionnaireapi.vercel.app/flaskApi/define?word=your_word ```
-
-
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-mbl&layout=compact&langs_count=9)
 
