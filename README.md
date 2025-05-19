@@ -43,10 +43,7 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-mbl&" alt="githubstat" /></p>
 
 ## 🌐 Connect with Me
-- <a href="https://www.behance.net/hervngisse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance profil link" height="30" width="40" /></a> [`Behance`](https://www.behance.net/hervngisse)
-<!-- 
-- <a href="https://www.leetcode.com/h_mbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h_mbl" height="30" width="40" /></a> [`leetcode`]()
-- <a href="https://discord.gg/x.mbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x.mbl" height="30" width="40" /></a> [`Discord`]() -->
+<a href="https://discord.gg/x.mbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x.mbl" height="30" width="40" /></a> [`Discord`]() 
 
 
 
