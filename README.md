@@ -42,8 +42,6 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-mbl&" alt="githubstat" /></p>
 
-## 🌐 Connect with Me
-<a href="https://discord.gg/x.mbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x.mbl" height="30" width="40" /></a> [`Discord`]() 
 
 
 
