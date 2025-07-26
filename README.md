@@ -5,7 +5,7 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-`Python` `Java` `C++` `C` `JavaScript`
+`Python` `Java` `C++` `Rust` `JavaScript`
 
 ### 🌐 Web Development
 `HTML` `CSS` `Bootstrap` `SASS` `AJAX` `React` `Node.js` `REST API`
