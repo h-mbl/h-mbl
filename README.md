@@ -11,7 +11,7 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
 `HTML` `CSS` `Bootstrap` `SASS` `AJAX` `React` `Node.js` `REST API`
 
 ### 🚀 Frameworks & Libraries
-`Flask` `FastAPI` `Express` `TailwindCSS` `Vite` `Electron`
+`Flask` `FastAPI` `Express` `TailwindCSS` `Vite` `Electron` `ReactJS` `ReactNative`
 
 ### 🛢️ Databases
 `MongoDB` `PostgreSQL`
@@ -26,7 +26,7 @@ Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my fr
 `Beautiful Soup`
 
 ### ☁️ Cloud & Deployment
- `Google Cloud` `Azure` `Vercel` `Railway` `Docker` `Render`
+ `Google Cloud` `Azure` `Vercel` `Railway` `Docker` `Render` 
 
 ## 🎨 UI/UX Design 
 
