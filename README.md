@@ -1,40 +1,15 @@
 ## 👋🏽 About Me
-Hello! I'm an aspiring computer scientist who enjoys doing UI/UX design in my free time. 
-- 🌱 Currently learning Generative AI [[...]](https://github.com/microsoft/generative-ai-for-beginners) 
+Hello! I'm a Software Developer who enjoys doing UI/UX design in my free time. 
   
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-`Python` `Java` `C++` `Rust` `JavaScript`
-
-### 🌐 Web Development
-`HTML` `CSS` `Bootstrap` `SASS` `AJAX` `React` `Node.js` `REST API`
-
-### 🚀 Frameworks & Libraries
-`Flask` `FastAPI` `Express` `TailwindCSS` `Vite` `Electron` `ReactJS` `ReactNative`
-
-### 🛢️ Databases
-`MongoDB` `PostgreSQL`
-
-### 🤖 AI, Machine Learning & Data Science
-`NumPy` `Pandas` `Scikit-learn` `PyTorch` `TensorFlow` `Hugging Face Transformers`
-
-### 🛠️ DevOps & Tools
-`Git` `GitHub Actions` `Docker` `Conda` `Jupyter Notebook` `Google Colab` `PyCharm`
-
-### 🔍 Web Scraping
-`Beautiful Soup`
-
-### ☁️ Cloud & Deployment
- `Google Cloud` `Azure` `Vercel` `Railway` `Docker` `Render` 
+`Python` `Java` `C++` `Rust` `JavaScript` `TypeScript`
 
 ## 🎨 UI/UX Design 
 
 ### 🎨 Design Tools
 `Figma` `Miro`
-
-### 🔬 User Research
-`Usability testing` `Surveys` `User personas`
 
 
 ## 📈 GitHub Stats
