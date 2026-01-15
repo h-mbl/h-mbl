@@ -6,8 +6,6 @@ Hello! I'm a Software Developer who enjoys doing UI/UX design in my free time.
 ### 💻 Programming Languages
 `Python` `Java` `C++` `Rust` `JavaScript` `TypeScript`
 
-## 🎨 UI/UX Design 
-
 ### 🎨 Design Tools
 `Figma` `Miro`
 
